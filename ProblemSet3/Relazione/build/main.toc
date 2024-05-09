@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Problema 2 \textit {(Un gioco con pedine e scacchiera)}}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Definizione dei sottoproblemi}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Casistiche}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Formula di Bellman}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Pseudocodice}{5}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Problema 3 \textit {(Costruire un albero di costo minimo)}}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Definizione dei sottoproblemi}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Struttura dati}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Combinazione dei sottoproblemi}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Formula di Bellman}{7}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Pseudocodice}{8}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Ricostruzione dell'albero}{9}{subsection.2.6}%
